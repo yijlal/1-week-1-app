@@ -7,14 +7,14 @@ from her rules but modified it as per my skill level and schedule. Complete
 set of rules are given below. But before you move ahead to rules, please check  
 my skill level when I started this project.
 
-## Skills (Before 1w1a)
+## Skills (Before 1w1a)  
 
-> :star: Basic  |  :star: :star: Average | :star: :star: :star: Confident | :thumbsdown: Zero
-HTML, CSS, JavaScript :star:  
-Java, Spring :star: :star:  
-Bootstarp, React  :star:  
-MySQL  :star:
-Express, Node  :thumbsdown:
+> 👍 Basic  |  💪 Average | 💯 Confident | 💔 Zero  
+HTML, CSS, JavaScript 👍  
+Java, Spring 💪  
+Bootstarp, React 👍  
+MySQL  👍  
+Express, Node  💔  
 
 ## Rules
 > 1. As name of the projects suggests; one application in one week.  
